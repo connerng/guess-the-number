@@ -1,0 +1,3 @@
+C:/Users/cjnga/OneDrive - Seattle Pacific University/Github Personal/guess-the-number/cmake-build-debug/CMakeFiles/guess_the_number.dir
+C:/Users/cjnga/OneDrive - Seattle Pacific University/Github Personal/guess-the-number/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cjnga/OneDrive - Seattle Pacific University/Github Personal/guess-the-number/cmake-build-debug/CMakeFiles/rebuild_cache.dir
